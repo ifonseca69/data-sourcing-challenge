@@ -302,27 +302,7 @@ This challenge will be evaluated against the requirements and assigned a grade a
 
 Grade
 
-Points
-
-A (+/-)
-
-90+
-
-B (+/-)
-
-80–89
-
-C (+/-)
-
-70–79
-
-D (+/-)
-
-60–69
-
-F (+/-)
-
-< 60
+![Grade](grade_M6.png)
 
 ----------
 
